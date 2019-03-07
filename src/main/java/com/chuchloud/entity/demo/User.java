@@ -1,4 +1,4 @@
-package com.chuchloud.entity;
+package com.chuchloud.entity.demo;
 
 public class User {
        private String accountId; //用户ID
